@@ -74,7 +74,7 @@ Project Structure
 │   ├── roc_curve.png
 │   └── feature_importance.png
 └── README.md
-Future Improvements
+Future Improvements-
 Hyperparameter tuning using GridSearchCV
 Handling class imbalance with SMOTE
 XGBoost and LightGBM implementation
